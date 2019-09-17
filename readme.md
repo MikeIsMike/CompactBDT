@@ -1,2 +1,3 @@
-Given a binary decision tree, the algorithm will simplify it.
-For performance, please see the pdf file.
+A binary decision tree is a binary tree used to represent a Boolean function. In this assignment, each non-leaf node contains a variable of the Boolean function denoted Xi = {X1, X2, X3, …, Xn}, and each leaf node contain Boolean function output of value 0 or 1. The left path of a node represents value 0 of the variable in the node and the right path of a node represents value 1 of the variable in the node. When compacted, a binary decision tree becomes a compact binary decision tree. A compacting process is used to eliminate redundant information from the binary tree.  The process is done by checking whether it exists duplicate information in the data structure and deleting such information. 
+
+For performance, please see the report file.
